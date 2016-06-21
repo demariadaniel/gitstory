@@ -3,6 +3,7 @@ and it was hot as all hell
 at least there's lemon water
 and a free lunch!
 we all expect to have lunch like this everyday jajajaja!!!!
+<<<<<<< Updated upstream
 Sounds like a plan!
 As long as we have snacks everyday :D
 i survived day 1 of bootcamp
@@ -11,3 +12,10 @@ The End. (x2)
 The beginning.
 hihihijdf,ahf,jsfh
 Not the end perhaps ;)
+=======
+
+
+
+
+
+>>>>>>> Stashed changes
