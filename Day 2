@@ -1,0 +1,18 @@
+<ul> 
+	<li></li> 
+</ul>
+
+<ol>
+	<li></li>
+</ol>
+
+<section>
+	<div>
+		<h2>About Us</h2>
+		<p> We are special because: </p>
+		<ol>
+			<li></li>
+			<li></li>
+		</ol>
+	</div>
+</section>
